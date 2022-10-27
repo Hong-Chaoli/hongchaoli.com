@@ -1,6 +1,7 @@
 ---
 date: "2022-10-03T01:26:00"
 title: About
+author: "Hong Chaoli"
 ---
 
 
@@ -9,7 +10,7 @@ This is a channel like a journal club, with an emphasis on classical, seminal pa
 
 # About me
 You guess! I will not tell you.
-
-
-
+```{r, results = 'asis', echo = F}
+emo::ji("smile")
+```
 
