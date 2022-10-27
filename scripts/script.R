@@ -13,6 +13,9 @@ serve_site()
 
 #新建博客 .Rmd文件
 blogdown::new_post()
+blogdown::new_post(title = "",  
+                   ext = '.Rmd', 
+                   subdir = "post")
 
 #启动本地服务，一遍写文档，网页渲染效果随时可见
 blogdown::serve_site()
@@ -27,6 +30,8 @@ blogdown::build_site()
 # config.yaml中找到favicon: favicon.ico
 # theme -> hugo-lithium -> static -> favicon.ico
 # theme -> hugo-lithium -> static -> images -> logo.png
+
+
 
 
 
