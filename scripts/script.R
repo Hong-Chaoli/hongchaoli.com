@@ -13,7 +13,7 @@ serve_site()
 
 #新建博客 .Rmd文件
 blogdown::new_post()
-blogdown::new_post(title = "",  
+blogdown::new_post(title = "2022-12-02 Hubel Wiesel 1959 猫纹状皮层神经元的receptive field（单单元记录）",  
                    ext = '.Rmd', 
                    subdir = "post")
 

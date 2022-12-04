@@ -1,9 +1,9 @@
 ---
 title: "Hello, welcome to my channel!"
 author: "Hong Chaoli"
-date: "2022-10-03T01:10:00"
-categories: ["'introduction"]
-tags: ['introduction']
+date: "2022-10-03"
+categories: "introduction"
+tags: "introduction"
 ---
 
 ```{r setup, include=FALSE}
@@ -67,7 +67,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 <!-- knitr::include_graphics("https://visit-chiyoda.tokyo/app/upload/spot_image/4d9593ea621fe3eb23dcca93f24c4121.jpg") -->
 <!-- ``` -->
 
-<!-- 插入简单图片： -->
+<!-- 插入简单表格： -->
 
 <!-- | id (align left) | group (align center) | value (align right) | -->
 <!-- |:---             |:---:|                 ---:| -->

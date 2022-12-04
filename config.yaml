@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hong Chaoli's Channel
+title: Hong Chaoli's 自留地
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -16,8 +16,8 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: Reference Reading
-      url: /reference reading/
+    # - name: Reference Reading
+    #   url: /reference reading/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
